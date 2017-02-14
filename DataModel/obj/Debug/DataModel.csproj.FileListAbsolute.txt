@@ -1,0 +1,10 @@
+E:\Project\Demo\Exercise\DataModel\bin\Debug\DataModel.dll.config
+E:\Project\Demo\Exercise\DataModel\bin\Debug\DataModel.dll
+E:\Project\Demo\Exercise\DataModel\bin\Debug\DataModel.pdb
+E:\Project\Demo\Exercise\DataModel\bin\Debug\EntityFramework.dll
+E:\Project\Demo\Exercise\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\Demo\Exercise\DataModel\bin\Debug\EntityFramework.xml
+E:\Project\Demo\Exercise\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\Demo\Exercise\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+E:\Project\Demo\Exercise\DataModel\obj\Debug\DataModel.dll
+E:\Project\Demo\Exercise\DataModel\obj\Debug\DataModel.pdb

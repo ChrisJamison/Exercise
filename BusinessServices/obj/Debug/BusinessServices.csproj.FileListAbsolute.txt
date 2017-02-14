@@ -1,0 +1,9 @@
+E:\Project\Demo\Exercise\BusinessServices\bin\Debug\BusinessServices.dll
+E:\Project\Demo\Exercise\BusinessServices\bin\Debug\BusinessServices.pdb
+E:\Project\Demo\Exercise\BusinessServices\bin\Debug\DataModel.dll
+E:\Project\Demo\Exercise\BusinessServices\bin\Debug\EntityFramework.dll
+E:\Project\Demo\Exercise\BusinessServices\bin\Debug\DataModel.pdb
+E:\Project\Demo\Exercise\BusinessServices\bin\Debug\EntityFramework.xml
+E:\Project\Demo\Exercise\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+E:\Project\Demo\Exercise\BusinessServices\obj\Debug\BusinessServices.dll
+E:\Project\Demo\Exercise\BusinessServices\obj\Debug\BusinessServices.pdb
